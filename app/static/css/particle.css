@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eedf12;
+    background_image: url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80");
+}
+
+#particles-js {
+background_repeat: no-repeat;
+background_size: cover;
+}
+
+.navbar{
+background-color:#15f00e;
+}

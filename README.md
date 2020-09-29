@@ -1,14 +1,14 @@
-## PROJECT  NAME 
+# PROJECT  NAME 
  - Blog
 
-## AUTHOR 
+# AUTHOR 
  - Michael Omondi
 
- ## DESCRIPTION 
+ # DESCRIPTION 
  - This is a Python-Flask Application that allows users to view, like or even create their own blogs 
 The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them..
 
- ## BDD(Behaviour Driven Development)
+ # BDD(Behaviour Driven Development)
 
 >Login Inputs
 
@@ -34,7 +34,7 @@ The users will submit their one minute pitches and other users will vote on them
 |  Pitch text| The actual pitch body|
 | Comment| A comment on the pitch|
 
-## User Story
+# User Story
 
 - Users can see the Blogs other people have posted.
 
@@ -52,7 +52,7 @@ The users will submit their one minute pitches and other users will vote on them
 
 - Users can view the different categories. 
 
-## Technologies used
+## Technology used
 * Python3
 * Flask
 * Javascript
@@ -78,12 +78,12 @@ To work with ONE MINUTE PITCH App you need to have some few prerequisites.
 
 - Terminal
 
-## Installations
+# Installations
 
 The following command installs all the application requirements
 >``pip freeze -r requirements.txt``
 
-## Setup
+# Setup
 
 Download the zip file from github.
 
@@ -106,21 +106,21 @@ After extracting the files,
  > ``python3 manage.py test.``
 
 
- ## Kown Bugs
+ # Kown Bugs
 
  * Some functions did not work as expected
 
 
 
-## Contacts 
+# Contacts 
 **omondimike11@gmail.com**
 
 
-## Live link 
+# Live link 
 **You can view the project through this link**
 
 
-## License 
+# License 
 
 #### [*MIT LICENSE*]
 (C) 2020 Michael Omondi

@@ -15,6 +15,8 @@ class Config:
     MAIL_USE_SSL = True
     MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
     MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
+    QUOTE API SQLALCHEMY_DATABASE_URI = "http://quotes.stormconsultancy.co.uk/random.json (Links to an external site.)Links to an external site."
+    
     
     
 class ProdConfig(Config):

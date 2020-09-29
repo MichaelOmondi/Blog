@@ -1,11 +1,11 @@
 ## PROJECT  NAME 
- - Pitches 
+ - Blog
 
 ## AUTHOR 
  - Michael Omondi
 
  ## DESCRIPTION 
- - This is a Python-Flask Application that allows users to create a pitch in only 60 seconds. 
+ - This is a Python-Flask Application that allows users to view, like or even create their own blogs 
 The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
 
  ## BDD(Behaviour Driven Development)
@@ -36,9 +36,9 @@ The users will submit their one minute pitches and other users will vote on them
 
 ## User Story
 
-- Users can see the pitches other people have posted.
+- Users can see the Blogs other people have posted.
 
-- Users can vote on the pitch they liked and give it a downvote or upvote.
+- Users can vote on the blogs they liked and give it a downvote or upvote.
 
 - Users can sign in to leave a comment.
 
@@ -48,7 +48,7 @@ The users will submit their one minute pitches and other users will vote on them
 
 - Users can comment on the different pitches and leave feedback. 
 
-- Users can submit a pitch in any category. 
+- Users can submit a blog in any category. 
 
 - Users can view the different categories. 
 
@@ -108,7 +108,7 @@ After extracting the files,
 
  ## Kown Bugs
 
- * There are no known bugs in this project yet
+ * Some functions did not work as expected
 
 
 

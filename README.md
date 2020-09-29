@@ -6,7 +6,7 @@
 
  ## DESCRIPTION 
  - This is a Python-Flask Application that allows users to view, like or even create their own blogs 
-The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
+The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them..
 
  ## BDD(Behaviour Driven Development)
 
